@@ -1,5 +1,4 @@
-remote_theme: mmistakes/jekyll-theme-basically-basic
-skin: sea
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-relative-links
 relative_links:
