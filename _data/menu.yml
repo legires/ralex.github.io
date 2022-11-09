@@ -1,7 +1,10 @@
 entries:
+  - title: rss
+    entries:
+      - title: feed
+        url: feed.xml
   - title: contact
     entries:
       - title: ralex@gmail.com
-      - title: linkedin
   - title: posts
     post_list: true
