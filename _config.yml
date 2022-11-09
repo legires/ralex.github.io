@@ -1,4 +1,7 @@
-remote_theme: daattali/beautiful-jekyll
+remote_theme: riggraz/no-style-please
+title: Ralex
+theme_config:
+  appearance: "dark"
 plugins:
   - jekyll-relative-links
 relative_links:
