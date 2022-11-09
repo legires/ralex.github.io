@@ -1,5 +1,6 @@
 ---
 title: Front matter
+layout: post
 ---
 
 # First post
