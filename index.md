@@ -3,7 +3,7 @@ title: Ralex Blog
 layout: home
 ---
 
-![img_1](assets/img/img_1.png)
+![img_1](assets/img/img_1.jpg)
 
 # Home
 
