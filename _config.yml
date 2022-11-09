@@ -1,7 +1,11 @@
 remote_theme: riggraz/no-style-please
 title: Ralex
+description: Aura sepiam siccat
+favicon: "booba_head.png"
 theme_config:
   appearance: "dark"
+  show_description: true
+  
 plugins:
   - jekyll-relative-links
 relative_links:
