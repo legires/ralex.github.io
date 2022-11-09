@@ -3,6 +3,5 @@ entries:
     entries:
       - title: ralex@gmail.com
       - title: linkedin
-        url: https://google.com
   - title: posts
     post_list: True
