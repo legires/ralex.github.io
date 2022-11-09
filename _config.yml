@@ -1,7 +1,6 @@
 remote_theme: riggraz/no-style-please
 title: Ralex
 description: Aura sepiam siccat
-baseurl: "/blog"
 favicon: "booba_head.png"
 theme_config:
   appearance: "dark"
