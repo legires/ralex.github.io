@@ -5,7 +5,7 @@ favicon: "booba_head.png"
 theme_config:
   appearance: "dark"
   back_home_text: "⇤"
-  date_format: ""
+  date_format: " "
   show_description: true
   
 plugins:
