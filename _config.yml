@@ -5,10 +5,12 @@ favicon: "booba_head.png"
 theme_config:
   appearance: "dark"
   back_home_text: "⇤"
+  date_format: ""
   show_description: true
   
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
