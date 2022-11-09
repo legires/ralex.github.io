@@ -4,6 +4,7 @@ description: Aura sepiam siccat
 favicon: "booba_head.png"
 theme_config:
   appearance: "dark"
+  back_home_text: "⇤"
   show_description: true
   
 plugins:
