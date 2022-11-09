@@ -12,6 +12,7 @@ theme_config:
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-feed
 relative_links:
   enabled: true
   collections: true
