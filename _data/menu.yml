@@ -1,0 +1,8 @@
+entries:
+  - title: contact
+    entries:
+      - title: ralex@gmail.com
+      - title: linkedin
+        url: google.com
+  - title: posts
+    post_list: True
